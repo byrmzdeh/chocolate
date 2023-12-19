@@ -1,0 +1,214 @@
+ [
+    {
+        "id": 1,
+        "name": "Whead Bread",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_06-600x600.png",
+        "price": 13.90,
+        "category": "Bakery"
+    },
+    {
+        "id": 2,
+        "name": "Poppy Strudel",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_08-600x600.png",
+        "price": 19.60,
+        "category": "Bakery"
+    },
+    {
+        "id": 3,
+        "name": "Sprouted Grain",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_09-600x600.png",
+        "price": 12.00,
+        "category": "Bakery"
+    },
+    {
+        "id": 4,
+        "name": "Saika with Jam",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_03-600x600.png",
+        "price": 25.00,
+        "category": "Bakery"
+    },
+    {
+        "id": 5,
+        "name": "Pumpernickel",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_04-600x600.png",
+        "price": 13.40,
+        "category": "Bakery"
+    },
+    {
+        "id": 6,
+        "name": "Multigrain Bread",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_02-600x600.png",
+        "price": 13.90,
+        "category": "Bakery"
+    },
+    {
+        "id": 7,
+        "name": "Chocolate Covered Roast",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-01-600x600.png",
+        "price": 17.50,
+        "category": "Chocolate"
+    },
+    {
+        "id": 8,
+        "name": "Fondant-Fruit Sweets",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-07-600x600.png",
+        "price": 3.30,
+        "category": "Chocolate"
+    },
+    {
+        "id": 9,
+        "name": "Honey Roasted Nuts",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-02-600x600.png",
+        "price": 19.40,
+        "category": "Chocolate"
+    },
+    {
+        "id": 10,
+        "name": "Almond Dark Chocolate",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-05-600x600.png",
+        "price": 12.95,
+        "category": "Chocolate"
+    },
+    {
+        "id": 11,
+        "name": "Truffle With Vanilla",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-03-600x600.png",
+        "price": 25.00,
+        "category": "Chocolate"
+    },
+    {
+        "id": 12,
+        "name": "Pastry Chef Fantasy",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-04-600x600.png",
+        "price":13.45,
+        "category": "Chocolate"
+    },
+    {
+        "id": 13,
+        "name": "Belgian Waffles",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/waffle_02_prod.png",
+        "price": 20.35,
+        "category": "Craft Bakery"
+    },
+    {
+        "id": 14,
+        "name": "Fruit Waffles",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/waffle_prod.png",
+        "price": 23.15,
+        "category": "Craft Bakery"
+    },
+    {
+        "id": 15,
+        "name": "Ice-Cream",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/ice_prod.png",
+        "price": 13.20,
+        "category": "Craft Bakery"
+    },
+    {
+        "id": 16,
+        "name": "Sweet donuts",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/donut_prod.png",
+        "price": 18,
+        "category": "Craft Bakery"
+    },
+    {
+        "id": 17,
+        "name": "Sweet Pies",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/pie_prod.png",
+        "price": 14,
+        "category": "Craft Bakery"
+    },
+    {
+        "id": 18,
+        "name": "Truffles Gifts",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/truffle_prod.png",
+        "price": 8.10,
+        "category": "Craft Bakery"
+    },
+    {
+        "id": 19,
+        "name": "Craft Cakes",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/cake_prod.png",
+        "price": 16.10,
+        "category": "Craft Food"
+    },
+    {
+        "id": 20,
+        "name": "Craft Tea",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/tea_prod.png",
+        "price": 19.00,
+        "category": "Craft Food"
+    },
+
+    {
+        "id": 21,
+        "name": "Dark Chocolate",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/choco_prod.png",
+        "price": 20.35,
+        "category": "Craft Food"
+    },
+    {
+        "id": 22,
+        "name": "Roastet Blueberry",
+        "img": "https://zisweet.co.nz/cdn/shop/files/Cupcake-DoubleChocolate-min.png?v=1694651282",
+        "price": 11.00,
+        "category": "Cupcake"
+    },
+    {
+        "id": 23,
+        "name": "Multifruit Cupcake",
+        "img": "https://static.wixstatic.com/media/f7607f_f6f68a2fa4514e7e99cf3871a8ac6f87~mv2.png/v1/fill/w_354,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Caramel%20Delight%20Cupcake.png",
+        "price": 14.30,
+        "category": "Cupcake"
+    },
+    {
+        "id": 24,
+        "name": "Drunk Cherry",
+        "img": "https://clipart-library.com/images/8TGbqzaqc.png",
+        "price": 13.90,
+        "category": "Cupcake"
+    },
+    {
+        "id": 25,
+        "name": "Caramel & Cream",
+        "img": "https://images.squarespace-cdn.com/content/v1/5c7ab463e8ba44f704591f3a/1623697925386-4NRI7QSSLCUYQRZDQI4M/Chocolate+Cupcake.png",
+        "price": 8.95,
+        "category": "Cupcake"
+    },
+    {
+        "id": 26,
+        "name": "Fruit Praline",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-06-600x600.png",
+        "price": 3.40,
+        "category": "Delicious Sweets"
+    },
+    {
+        "id": 27,
+        "name": "Drunken Cherry Chocolate",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-11-600x600.png",
+        "price": 42.40,
+        "category": "Delicious Sweets"
+    },
+    {
+        "id": 28,
+        "name": "Peppered Dark Chocolate",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-08-768x768.png",
+        "price":  25.00,
+        "category": "Delicious Sweets"
+    },
+    {
+        "id": 29,
+        "name": "Dark Chocolate With Souffle",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-10-600x600.png",
+        "price": 12.90 ,
+        "category": "Delicious Sweets"
+    },
+    {
+        "id": 30,
+        "name": "Chocolate Coffee Candy",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/shop-10-600x600.png",
+        "price": 13.50,
+        "category": "Delicious Sweets"
+    }
+]
+

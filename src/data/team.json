@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "John Portman",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2017/09/team_01.jpg",
+        "category": "CONFECTIONER",
+        "age":28,
+        "experience": "4 years",
+        "specialization": "Engineer"
+    },
+    {
+        "id": 2,
+        "name": "Kelley Miles",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2017/09/team_02.jpg",
+        "category": "Bakery",
+        "age":32,
+        "experience": "1 years",
+        "specialization": "Engineer"
+    },
+    {
+        "id": 3,
+        "name": "Sherman Warner",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2017/09/team_03.jpg",
+        "category": "Bakery",
+        "age":24,
+        "experience": "2 years",
+        "specialization": "Engineer"
+    },
+    {
+        "id": 4,
+        "name": "Denis Green",
+        "img": "http://crems.like-themes.com/wp-content/uploads/2017/09/team_04.jpg",
+        "category": "Bakery",
+        "age":29,
+        "experience": "6 years",
+        "specialization": "Engineer"
+    }
+]
